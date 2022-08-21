@@ -10,8 +10,20 @@ body {
     text-align: left;
     border: 1px solid #ddd;
     margin: auto;
+    background-color: #eee;
 }
 
 #container h1 {
     font-size: 20px;
+}
+
+header {
+    font-size: 30px;
+    text-align: center;
+    font-weight: 700;
+    font-style: italic;
+    color: #d33;
+    background-color: #add;
+    padding: 10px;
+    margin: -1rem -1rem 0 -1rem;
 }
