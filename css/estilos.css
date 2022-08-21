@@ -1,5 +1,17 @@
 body {
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: darkcyan;
+    color: #333;
+}
+
+#container {
+    width: 75%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #ddd;
+    margin: auto;
+}
+
+#container h1 {
+    font-size: 20px;
 }
